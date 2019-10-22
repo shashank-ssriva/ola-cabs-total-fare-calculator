@@ -68,7 +68,7 @@ root@shashank-mbp /U/s/Downloads# chmod +x OlaFareTotal.sh
 ```
 * Edit ``OlaBillsDateFareExtractor.sh`` scipt and enter the path (*first line*) where your Ola invoices have been downloaded.
 
-* execute ``OlaFareTotal.sh`` script.
+* Execute ``OlaFareTotal.sh`` script.
 
 ```bash
 root@shashank-mbp /U/s/Downloads# bash OlaFareTotal.sh
