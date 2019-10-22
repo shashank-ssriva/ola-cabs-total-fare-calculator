@@ -66,6 +66,7 @@ root@shashank-mbp /U/s/Downloads# cd ola-cabs-total-fare-calculator/
 root@shashank-mbp /U/s/Downloads# chmod +x OlaBillsDateFareExtractor.sh
 root@shashank-mbp /U/s/Downloads# chmod +x OlaFareTotal.sh
 ```
+* Edit ``OlaBillsDateFareExtractor.sh`` scipt and enter the path (*first line*) where your Ola invoices have been downloaded.
 
 * execute ``OlaFareTotal.sh`` script.
 
