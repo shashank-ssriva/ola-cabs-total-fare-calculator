@@ -3,7 +3,7 @@
 ## Introduction
 This Bash shell script automatically calculates the total Ola cabs fare from all the bills/invoices in a given directory. No need to open individual invoices & calculate fare manually.
 
-There are two scripts here. The first script extracts the date & fare from individual invoices, like this.
+There are two scripts here. The first script ``OlaBillsDateFareExtractor.sh`` extracts the date & fare from individual invoices, like this.
 
 ```bash
 21 Aug, 2019
@@ -31,7 +31,7 @@ There are two scripts here. The first script extracts the date & fare from indiv
 
 ₹478
 ```
-The second one calculates the total amount based on the output of first script.
+The second script ``OlaFareTotal.sh`` calculates the total amount based on the output of first one.
 
 ## Requirements
 * Python 3+.
