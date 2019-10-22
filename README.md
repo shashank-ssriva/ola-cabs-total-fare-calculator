@@ -45,12 +45,20 @@ pip3 install pdfminer
 * Clone this repository.
 
 ```bash
-
+root@shashank-mbp /U/s/Downloads# git clone https://github.com/shashank-ssriva/ola-cabs-total-fare-calculator.git
+Cloning into 'ola-cabs-total-fare-calculator'...
+Username for 'https://github.com': shashank-ssriva
+Password for 'https://shashank-ssriva@github.com':
+remote: Enumerating objects: 21, done.
+remote: Counting objects: 100% (21/21), done.
+remote: Compressing objects: 100% (19/19), done.
+remote: Total 21 (delta 6), reused 2 (delta 0), pack-reused 0
+Unpacking objects: 100% (21/21), done.
 ```
 * Navigate to the repository.
 
 ```bash
-
+root@shashank-mbp /U/s/Downloads# cd ola-cabs-total-fare-calculator/
 ```
 * Make both the shell scripts executable.
 
