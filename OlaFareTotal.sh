@@ -1,5 +1,5 @@
 total=0
-for fare in `bash Ola-Bills-Date-And-Fare-Extractor/OlaBillsDateFareExtractor.sh | grep "₹" | sed 's/₹//'`;
+for fare in `bash OlaBillsDateFareExtractor.sh | grep "₹" | sed 's/₹//'`;
     do
         total=$((total + fare))
     done
