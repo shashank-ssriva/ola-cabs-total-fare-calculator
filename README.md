@@ -36,11 +36,12 @@ The second script ``OlaFareTotal.sh`` calculates the total amount based on the o
 ## Requirements
 * Python 3+.
 * [PDFMiner](https://pypi.org/project/pdfminer/) Python module.
-* Ola bills/invoices downloaded to a particular directory.
 
 ```bash
 pip3 install pdfminer
 ```
+* Ola bills/invoices downloaded to a particular directory.
+
 ## Instructions
 * Clone this repository.
 
